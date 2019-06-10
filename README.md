@@ -5,7 +5,7 @@
 - webpack4
 
 ## demo
- - [데모버전 보기](https://puregramer.github.io/Webcraft/)
+ - [데모버전 보기](https://puregramer.github.io/WebAndDragon/)
  
  ## notice
  - 해당 프로젝는 ES6 skill up 및 2d platfomer game 기본 구조 분석을 위한 개인 프로젝트입니다.
