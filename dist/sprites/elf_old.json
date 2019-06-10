@@ -1,0 +1,298 @@
+{
+    "imageURL": "./img/characters.png",
+
+    "frames": [
+        {
+            "name": "idle",
+            "rect": [0, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "idle-1",
+            "rect": [650, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "idle-2",
+            "rect": [700, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-1",
+            "rect": [50, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-2",
+            "rect": [100, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-3",
+            "rect": [150, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-4",
+            "rect": [200, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-5",
+            "rect": [250, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-6",
+            "rect": [300, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-7",
+            "rect": [350, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-8",
+            "rect": [400, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-9",
+            "rect": [450, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-10",
+            "rect": [500, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-11",
+            "rect": [550, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "walk-12",
+            "rect": [600, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "break",
+            "rect": [900, 0, 50, 70],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "break-run",
+            "rect": [500, 225, 100, 65]
+        },
+        {
+            "name": "jump-1",
+            "rect": [0, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "jump-2",
+            "rect": [50, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "jump-3",
+            "rect": [100, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "jump-4",
+            "rect": [150, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "jump-5",
+            "rect": [200, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "jump-6",
+            "rect": [250, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "jump-7",
+            "rect": [300, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "jump-8",
+            "rect": [350, 70, 50, 90],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "run-1",
+            "rect": [0, 160, 100, 65]
+
+        },
+        {
+            "name": "run-2",
+            "rect": [100, 160, 100, 65]
+        },
+        {
+            "name": "run-3",
+            "rect": [200, 160, 100, 65]
+        },
+        {
+            "name": "run-4",
+            "rect": [300, 160, 100, 65]
+        },
+        {
+            "name": "run-5",
+            "rect": [400, 160, 100, 65]
+        },
+        {
+            "name": "run-6",
+            "rect": [500, 160, 100, 65]
+        },
+        {
+            "name": "run-7",
+            "rect": [600, 160, 100, 65]
+        },
+        {
+            "name": "run-8",
+            "rect": [700, 160, 100, 65]
+        },
+        {
+            "name": "run-9",
+            "rect": [0, 225, 100, 65]
+        },
+        {
+            "name": "run-10",
+            "rect": [100, 225, 100, 65]
+        },
+        {
+            "name": "run-11",
+            "rect": [200, 225, 100, 65]
+        },
+        {
+            "name": "run-12",
+            "rect": [300, 225, 100, 65]
+        },
+        {
+            "name": "attack-1",
+            "rect": [545, 290, 45, 75],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "attack-2",
+            "rect": [497, 290, 48, 75],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "attack-3",
+            "rect": [442, 290, 55, 75],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "attack-4",
+            "rect": [389, 290, 53, 75],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "attack-5",
+            "rect": [284, 290, 105, 75],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "attack-6",
+            "rect": [224, 290, 60, 75],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "attack-7",
+            "rect": [176, 290, 48, 75],
+            "offset": {"x" : 50}
+        },
+        {
+            "name": "attack-8",
+            "rect": [128, 290, 48, 75],
+            "offset": {"x" : 50}
+        }
+
+
+
+    ],
+
+    "animations": [
+        {
+            "name": "walk",
+            "frameLen": 12,
+            "frames": [
+                "walk-12",
+                "walk-11",
+                "walk-10",
+                "walk-9",
+                "walk-8",
+                "walk-7",
+                "walk-6",
+                "walk-5",
+                "walk-4",
+                "walk-3",
+                "walk-2",
+                "walk-1"
+            ]
+        },
+        {
+            "name": "idle",
+            "frameLen": 0.2,
+            "frames": [
+                "idle",
+                "idle-1",
+                "idle-2"
+            ]
+        },
+        {
+            "name": "jump",
+            "frameLen": 6.5,
+            "frames": [
+                "jump-8",
+                "jump-7",
+                "jump-6",
+                "jump-5",
+                "jump-4",
+                "jump-3",
+                "jump-2",
+                "jump-1"
+            ]
+        },
+        {
+            "name": "run",
+            "frameLen": 12,
+            "frames": [
+                "run-12",
+                "run-11",
+                "run-10",
+                "run-9",
+                "run-8",
+                "run-7",
+                "run-6",
+                "run-5",
+                "run-4",
+                "run-3",
+                "run-2",
+                "run-1"
+            ]
+        },
+        {
+            "name": "attack",
+            "frameLen": 6,
+            "frames": [
+                "attack-8",
+                "attack-7",
+                "attack-6",
+                "attack-5",
+                "attack-4",
+                "attack-3",
+                "attack-2",
+                "attack-1"
+            ]
+        }
+    ]
+}

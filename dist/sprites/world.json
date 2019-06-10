@@ -1,0 +1,21 @@
+{
+    "imageURL": "./img/tileset.png",
+    "tileW": 32,
+    "tileH": 32,
+
+    "tiles": [
+        {
+            "name": "ground",
+            "index": [0, 0]
+        },
+        {
+            "name": "sky",
+            "index": [1, 0]
+        }
+      
+    ],
+
+    "animations": [
+       
+    ]
+}

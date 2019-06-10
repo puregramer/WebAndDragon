@@ -1,0 +1,458 @@
+{
+    "imageURL": "./img/characters_new.png",
+
+    "frames": [
+        {
+            "name": "idle-1",
+            "rect": [0, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "idle-2",
+            "rect": [60, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "idle-3",
+            "rect": [120, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "idle-4",
+            "rect": [180, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "idle-5",
+            "rect": [240, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "idle-6",
+            "rect": [300, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-1",
+            "rect": [0, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-2",
+            "rect": [60, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-3",
+            "rect": [120, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-4",
+            "rect": [180, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-5",
+            "rect": [240, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-6",
+            "rect": [300, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-7",
+            "rect": [360, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-8",
+            "rect": [420, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-9",
+            "rect": [480, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-10",
+            "rect": [540, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-11",
+            "rect": [600, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "walk-12",
+            "rect": [660, 70, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "break-1",
+            "rect": [360, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "break-2",
+            "rect": [420, 0, 60, 70],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "breakRun-1",
+            "rect": [0, 360, 70, 70]
+        },
+        {
+            "name": "breakRun-2",
+            "rect": [70, 360, 70, 70]
+        },
+        {
+            "name": "breakRun-3",
+            "rect": [140, 360, 70, 70]
+        },
+        {
+            "name": "breakRun-4",
+            "rect": [210, 360, 70, 70]
+        },
+        {
+            "name": "jump-1",
+            "rect": [0, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump-2",
+            "rect": [60, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump-3",
+            "rect": [120, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump-4",
+            "rect": [180, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump-5",
+            "rect": [240, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump-6",
+            "rect": [300, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump-7",
+            "rect": [360, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump-8",
+            "rect": [420, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump2-1",
+            "rect": [480, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump2-2",
+            "rect": [540, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump2-3",
+            "rect": [600, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump2-4",
+            "rect": [660, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump2-5",
+            "rect": [720, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump2-6",
+            "rect": [780, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "jump2-7",
+            "rect": [840, 140, 60, 100],
+            "offset": {"x" : 40}
+        },
+        {
+            "name": "run-1",
+            "rect": [0, 240, 100, 60],
+            "offset": {"y" : 5}
+
+        },
+        {
+            "name": "run-2",
+            "rect": [100, 240, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-3",
+            "rect": [200, 240, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-4",
+            "rect": [300, 240, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-5",
+            "rect": [400, 240, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-6",
+            "rect": [500, 240, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-7",
+            "rect": [600, 240, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-8",
+            "rect": [700, 240, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-9",
+            "rect": [0, 300, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-10",
+            "rect": [100, 300, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-11",
+            "rect": [200, 300, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "run-12",
+            "rect": [300, 300, 100, 60],
+            "offset": {"y" : 5}
+        },
+        {
+            "name": "attack1-1",
+            "rect": [0, 430, 155, 85]
+        },
+        {
+            "name": "attack1-2",
+            "rect": [155, 430, 155, 85]
+        },
+        {
+            "name": "attack1-3",
+            "rect": [310, 430, 155, 85]
+
+        },
+        {
+            "name": "attack1-4",
+            "rect": [465, 430, 155, 85]
+
+        },
+        {
+            "name": "attack1-5",
+            "rect": [620, 430, 155, 85]
+
+        },
+        {
+            "name": "attack1-6",
+            "rect": [775, 430, 155, 85]
+
+        },
+        {
+            "name": "attack1-7",
+            "rect": [0, 515, 155, 85]
+
+        },
+        {
+            "name": "attack1-8",
+            "rect": [155, 515, 155, 85]
+
+        },
+        {
+            "name": "attack1-9",
+            "rect": [310, 515, 155, 85]
+
+        },
+        {
+            "name": "attack2-1",
+            "rect": [465, 515, 155, 85]
+
+        },
+        {
+            "name": "attack2-2",
+            "rect": [620, 515, 155, 85]
+
+        },
+        {
+            "name": "attack2-3",
+            "rect": [775, 515, 155, 85]
+
+        },
+        {
+            "name": "attack2-4",
+            "rect": [0, 600, 155, 85]
+
+        },
+        {
+            "name": "attack2-5",
+            "rect": [155, 600, 155, 85]
+
+        },
+        {
+            "name": "attack2-6",
+            "rect": [310, 600, 155, 85]
+
+        },
+        {
+            "name": "attack2-7",
+            "rect": [465, 600, 155, 85]
+
+        },
+        {
+            "name": "attack2-8",
+            "rect": [620, 600, 155, 85]
+
+        },
+        {
+            "name": "attack2-9",
+            "rect": [775, 600, 155, 85]
+
+        }
+
+
+
+    ],
+
+    "animations": [
+        {
+            "name": "walk",
+            "frameLen": 10,
+            "frames": [
+                "walk-1",
+                "walk-2",
+                "walk-3",
+                "walk-4",
+                "walk-5",
+                "walk-6",
+                "walk-7",
+                "walk-8",
+                "walk-9",
+                "walk-10",
+                "walk-11",
+                "walk-12"
+            ]
+        },
+        {
+            "name": "idle",
+            "frameLen": 0.2,
+            "frames": [
+                "idle-1",
+                "idle-2",
+                "idle-3",
+                "idle-4",
+                "idle-5",
+                "idle-6"
+            ]
+        },
+        {
+            "name": "jump",
+            "frameLen": 6.5,
+            "frames": [
+                "jump-1",
+                "jump-2",
+                "jump-3",
+                "jump-4",
+                "jump-5",
+                "jump-6",
+                "jump-7",
+                "jump-8"
+            ]
+        },
+        {
+            "name": "jump2",
+            "frameLen": 6,
+            "frames": [
+                "jump2-1",
+                "jump2-2",
+                "jump2-3",
+                "jump2-4",
+                "jump2-5",
+                "jump2-6",
+                "jump2-7"
+            ]
+        },
+        {
+            "name": "run",
+            "frameLen": 12,
+            "frames": [
+                "run-1",
+                "run-2",
+                "run-3",
+                "run-4",
+                "run-5",
+                "run-6",
+                "run-7",
+                "run-8",
+                "run-9",
+                "run-10",
+                "run-11",
+                "run-12"
+            ]
+        },
+        {
+            "name": "attack1",
+            "frameLen": 6,
+            "frames": [
+                "attack1-1",
+                "attack1-2",
+                "attack1-3",
+                "attack1-4",
+                "attack1-5",
+                "attack1-6",
+                "attack1-7",
+                "attack1-8",
+                "attack1-9"
+            ]
+        },
+        {
+            "name": "attack2",
+            "frameLen": 6,
+            "frames": [
+                "attack2-1",
+                "attack2-2",
+                "attack2-3",
+                "attack2-4",
+                "attack2-5",
+                "attack2-6",
+                "attack2-7",
+                "attack2-8",
+                "attack2-9"
+
+            ]
+        }
+    ]
+}
